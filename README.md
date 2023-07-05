@@ -1,2 +1,2 @@
 # test
-This is a test for my first project
+집 주소를 추가해야 합니다. rimdojka18@gmail.com
